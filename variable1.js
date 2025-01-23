@@ -1,7 +1,7 @@
-const name = "Ashley Willowthorn"
-const age = 29
+const name = "Charlotte"
+const age = 17
 const ocupation = "LUA coder, Web developer"
-const bio = "Just a passionate web developer."
+const bio = "Short, Silly Gal with a passion for gaming and coding."
 const profilePicture = "profile.png"
 
 const profileContainer = document.getElementById("profile-container")
